@@ -1,0 +1,13 @@
+
+const name = "Djon1550"
+const courses = ["HTML", "CSS", "HTML"]
+
+console.log(name)
+console.log(courses)
+const numbersToDisplay = []
+for (let il in=1; i<= 200; i++) {
+    if (i%2 == 1) {
+        numbersToDisplay.push(i)
+    }
+}
+console.log(numbersToDisplay)
